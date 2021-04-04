@@ -1,0 +1,118 @@
+{
+  "main": {
+    "id": "d60c261a8dac50fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "40e655ac4767483d",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/Change SSH Port.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "adf25ffb06794874",
+    "type": "split",
+    "children": [
+      {
+        "id": "337da94f35c6a5c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a7b213b57c30024",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1f4223ccd261c1a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#server",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8b64712c88469d50",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c15a3ba7d66d8649",
+    "type": "split",
+    "children": [
+      {
+        "id": "64bd08d377b24f05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afb971968dde194d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/Change SSH Port.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "078b297d4e1cf9fd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notes/Change SSH Port.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "notes/Change SSH Port.md",
+    "notes/Untitled.md",
+    "notes/JEST.md",
+    "CSF Installation.md",
+    "What is Gonit.md",
+    "Webmin Installation.md",
+    "Setup file as SWAP.md",
+    "Setup Express in Server.md",
+    "Setup Disk as SWAP.md",
+    "Sendmail configuration.md"
+  ]
+}
