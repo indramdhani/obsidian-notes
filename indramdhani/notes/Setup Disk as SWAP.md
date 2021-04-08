@@ -84,4 +84,4 @@ Add the new entry
 /dev/xvda1 none swap sw 0 0
 ```
 
-#server #swap #performance 
+#server #swap #performance #aws 

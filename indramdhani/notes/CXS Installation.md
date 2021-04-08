@@ -78,7 +78,7 @@ Now edit /etc/clamd.d/scan.conf and change:
 User clamscan
 ```
 
-#to:
+to:
 
 ```bash
 LocalSocket /var/run/clamd.scan/clamd.sock

@@ -42,4 +42,4 @@ Add the line below to fstab
 /swapfile swap swap defaults 0 0
 ```
 
-#server #swap #performance
+#server #swap #performance #aws 
