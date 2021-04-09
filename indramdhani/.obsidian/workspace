@@ -104,6 +104,17 @@
                 "file": "notes/Stripe Payout.md"
               }
             }
+          },
+          {
+            "id": "f5bef20abede5a5a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ]
       }
