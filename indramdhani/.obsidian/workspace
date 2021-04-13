@@ -15,7 +15,7 @@
         }
       },
       {
-        "id": "0b37f66fc26928b3",
+        "id": "b0cdfde66afb02b5",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -47,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#server",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,7 +64,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -84,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Stripe Payout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,9 +100,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "notes/Stripe Payout.md"
-              }
+              "state": {}
             }
           },
           {
@@ -123,9 +121,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fa467d93c7ba09a4",
+  "active": "b0cdfde66afb02b5",
   "lastOpenFiles": [
     "notes/Stripe Payout.md",
+    "notes/AWS S3 Gateway Endpoint to Save Bandwith.md",
     "notes/Untitled.md",
     "notes/Guest Checkout.md",
     "notes/Optimize AWS Costs to reduce the bill.md",
@@ -133,7 +132,6 @@
     "notes/CXS Installation.md",
     "notes/Basic Server Command.md",
     "notes/Monit.md",
-    "notes/Setup file as SWAP.md",
-    "notes/Setup Disk as SWAP.md"
+    "notes/Setup file as SWAP.md"
   ]
 }
