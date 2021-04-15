@@ -4,21 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "fa467d93c7ba09a4",
+        "id": "8cc6a4ae462c7df6",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/Stripe Payout.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "b0cdfde66afb02b5",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -48,7 +37,7 @@
               "type": "search",
               "state": {
                 "query": "tag:#server",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -64,8 +53,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,17 +109,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b0cdfde66afb02b5",
+  "active": "8cc6a4ae462c7df6",
   "lastOpenFiles": [
-    "notes/Stripe Payout.md",
     "notes/AWS S3 Gateway Endpoint to Save Bandwith.md",
+    "notes/Setup file as SWAP.md",
+    "notes/Stripe Payout.md",
     "notes/Untitled.md",
     "notes/Guest Checkout.md",
     "notes/Optimize AWS Costs to reduce the bill.md",
     "notes/Notion - Intro to notion.md",
     "notes/CXS Installation.md",
     "notes/Basic Server Command.md",
-    "notes/Monit.md",
-    "notes/Setup file as SWAP.md"
+    "notes/Monit.md"
   ]
 }
