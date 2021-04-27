@@ -102,4 +102,4 @@
 -   **Fake Guest with user creation on payment page**
 -   **Fake Guest with user creation on save design process**
 -   
-#research #ecommerce #paypal #apple-pay #google-pay #social-login
+#research #ecommerce #paypal #apple-pay #google-pay #social-login #payment

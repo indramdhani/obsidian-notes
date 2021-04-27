@@ -98,4 +98,4 @@ The API result is reference to a report file to download, if we are going to cre
 
 [](https://developer.xero.com/documentation/api/invoices)[https://developer.xero.com/documentation/api/invoices](https://developer.xero.com/documentation/api/invoices)
 
-#ecommerce #stripe #payout #research 
+#ecommerce #stripe #payout #research #payment

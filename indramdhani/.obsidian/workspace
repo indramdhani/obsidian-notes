@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "8cc6a4ae462c7df6",
+        "id": "497a6a4d7c24fae8",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -57,7 +57,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c15a3ba7d66d8649",
@@ -109,17 +110,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8cc6a4ae462c7df6",
+  "active": "497a6a4d7c24fae8",
   "lastOpenFiles": [
-    "notes/AWS S3 Gateway Endpoint to Save Bandwith.md",
+    "Untitled.md",
+    "notes/Replace Gonit with Monit on bitnami instance.md",
+    "notes/What is Gonit.md",
+    "notes/Change SSH Port.md",
+    "notes/Setup Disk as SWAP.md",
     "notes/Setup file as SWAP.md",
-    "notes/Stripe Payout.md",
-    "notes/Untitled.md",
-    "notes/Guest Checkout.md",
+    "notes/Git Autodeploy.md",
+    "notes/Increase efficiency of your Backup and Recovery workflow with AWS.md",
     "notes/Optimize AWS Costs to reduce the bill.md",
-    "notes/Notion - Intro to notion.md",
-    "notes/CXS Installation.md",
-    "notes/Basic Server Command.md",
-    "notes/Monit.md"
+    "notes/Guest Checkout.md"
   ]
 }
