@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily-note/2021-04-27.md",
+            "file": "daily-note/2021-05-05.md",
             "mode": "source"
           }
         }
@@ -84,14 +84,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-note/2021-04-27.md",
+                "file": "daily-note/2021-05-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-note/2021-04-27.md"
+                "file": "daily-note/2021-05-05.md"
               }
             }
           }
@@ -124,15 +124,15 @@
   },
   "active": "7d61e4d80573ffeb",
   "lastOpenFiles": [
-    "2021-04-27.md",
-    "daily-note/2021-04-26.md",
-    "2021-04-26.md",
-    "daily-note/2021-04-23.md",
-    "2021-04-23.md",
-    "daily-note/2021-04-22.md",
-    "2021-04-22.md",
-    "daily-note/2021-04-21.md",
-    "2021-04-21.md",
-    "daily-note/2021-04-20.md"
+    "2021-05-05.md",
+    "daily-note/2021-05-04.md",
+    "2021-05-04.md",
+    "daily-note/2021-05-03.md",
+    "2021-05-03.md",
+    "daily-note/2021-04-29.md",
+    "2021-04-29.md",
+    "daily-note/2021-04-28.md",
+    "2021-04-28.md",
+    "daily-note/2021-04-27.md"
   ]
 }
